@@ -1,6 +1,8 @@
 # api-node-aprendizado
 Primeiro projeto criando uma api em node.js
 
+- __ESTUDO__ b7web
+
 - Application Programming Interface 'Interface de Programação de Aplicações'
 - Webservices = serviços da web
 
@@ -22,10 +24,16 @@ Primeiro projeto criando uma api em node.js
 - npm install dotenv express pg pg-hstore sequelize validator
 - tsc --init
 - npm install -D @types/express @types/sequelize @types/validator
+  
+- npm isntall cors
+- npm install -D @types/cors
 
+> cors e uma permissão para tilizar á api
 ### Rodar o projeto
-
 * npm install
 #### Rodar o servidor 
 * npm run start-dev
-- (http://localhost:8080)
+- [http://localhost:8080]
+
+### Testes
+- [resttesttest.com]
