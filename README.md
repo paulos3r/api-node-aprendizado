@@ -19,6 +19,14 @@ Primeiro projeto criando uma api em node.js
 - __PATCH__: Requisição feita para atualização de somente uma parte de um recurso
 - __DELETE__: Requisição para excluir um dado
 
+### HTTP - status
+- Respostas de informação (100-199),
+- Respostas de sucesso (200-299),
+- Redirecionamentos (300-399)
+- Erros do cliente (400-499)
+- Erros do servidor (500-599).
+- [https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status]
+
 ### biblioteca e dependência
 - npm init
 - npm install dotenv express pg pg-hstore sequelize validator
