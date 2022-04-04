@@ -1,3 +1,4 @@
 ###Rotas
 > Atenção: As rotas dinamicas e as rotas fixas, sempre: sempre: rota fisica vem primeiro
 > por isso deve manter atenção nas organizações das rotas;
+### Teste para finalizar a issues #1
